@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: antiquewhite
+}
+header{
+    background-color: #F2E880;
+}
+
+header p{
+   padding-top: 20px; 
+   text-align: center;
+   font-size: 20px;
+}
+header h1{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(108, 143, 50)
+}
+.altbaslik{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.malzemeler{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 24px;
+    line-height: 1.5;
+}
+.malzemeler h2{
+    color: #AA471F;
+}
+
+.yapilis{ 
+    text-align: center;
+    padding-top: 20px;
+    font-size: 24px;
+    line-height: 1.5; 
+}
+.yapilis h2{
+    color: #AA471F;
+}
+footer{
+    margin-top: 10px;
+    background-color: #F2E880;
+    height: 60px;
+    display: flex;
+    justify-content:left;
+    align-items:center;
+}
+footer p{
+    margin-left: 20px;
+    font-size: 20px;
+    
+    
+}
+.altbaslik .kisi{
+    background-color:rgba(108, 143, 50, 0.5)
+}
